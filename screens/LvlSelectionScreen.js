@@ -371,7 +371,7 @@ const LvlSelectionScreen = ({navigation}) => {
                   marginBottom: 15,
                 }}>
                 <Image
-                  source={require('../assets/planats/uran.jpeg')}
+                  source={require('../assets/planats/uran1.jpeg')}
                   style={{
                     width: '100%',
                     height: 200,
